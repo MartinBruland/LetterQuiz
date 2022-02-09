@@ -21,12 +21,6 @@ Main Menu | Game | Game Over
 ------------ | ------------- | ------------- 
 <img src="https://github.com/MartinBruland/LetterQuiz/blob/main/Images/LetterQuiz%20Menu.png" width="150" height="300"> | <img src="https://github.com/MartinBruland/LetterQuiz/blob/main/Images/LetterQuiz%20Game.png" width="150" height="300"> | <img src="https://github.com/MartinBruland/LetterQuiz/blob/main/Images/LetterQuiz%20GameOver.png" width="150" height="300">
 
-
-
--------------------------------------------
-## Support
-martinbruland.dev@gmail.com   
-
 -------------------------------------------  
 ## Privacy Policy 
 This game does not collect or use your data.
