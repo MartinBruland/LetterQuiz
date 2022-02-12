@@ -1,6 +1,5 @@
-# LETTERQUIZ
-  
-Title: LetterQuiz   
+# LetterQuiz
+   
 Category: Game    
 Genre: Trivia, Puzzle, Quiz   
 
