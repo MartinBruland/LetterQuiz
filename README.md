@@ -5,7 +5,6 @@ Genre: Trivia, Puzzle, Quiz
 
 Platform: IOS   
 Language: Swift 4.0     
-Available at:   
 
 Developer: Martin Bruland   
 Created: April 2019   
