@@ -19,6 +19,15 @@ Main Menu | Game | Game Over
 ------------ | ------------- | ------------- 
 <img src="https://github.com/MartinBruland/LetterQuiz/blob/main/Images/LetterQuiz%20Menu.png" width="150" height="300"> | <img src="https://github.com/MartinBruland/LetterQuiz/blob/main/Images/LetterQuiz%20Game.png" width="150" height="300"> | <img src="https://github.com/MartinBruland/LetterQuiz/blob/main/Images/LetterQuiz%20GameOver.png" width="150" height="300">
 
+
+-------------------------------------------
+## How To Use
+1. Clone project
+2. Open in Xcode
+3. Build
+4. Select device (physical, requires accelerometer for player movement)
+5. Start
+
 -------------------------------------------  
 ## Privacy Policy 
 This game does not collect or use your data.
