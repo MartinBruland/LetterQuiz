@@ -25,7 +25,7 @@ Main Menu | Game | Game Over
 1. Clone project
 2. Open in Xcode
 3. Build
-4. Select device (physical, requires accelerometer for player movement)
+4. Select device
 5. Start
 
 -------------------------------------------  
